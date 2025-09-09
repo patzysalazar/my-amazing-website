@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head> 
+  <title></title>Testing </title>
+  <body>
+  </head>
+    <h1>Hello World!</h1>
+    <p>This is a paragraph</p><!-- are to be considered to be a block element - meaning always starts on the new line-->
+    <p>This is a paragraph</p>
+    <p>This is a paragraph</p>
+    <span><p>this is it</p></span>
+  </body>
+</html>
